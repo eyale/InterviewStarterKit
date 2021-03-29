@@ -8,7 +8,6 @@ This starterkit was created to reduce the time for complete test tasks
 
 ## Branches:
 
-* `master` - stable app releases
 * `develop` - development branch, merge your feature branches here
 
 ## Dependencies
