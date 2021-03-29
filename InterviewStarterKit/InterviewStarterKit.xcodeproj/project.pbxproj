@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7D02676E2611FAF600A37D88 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7D02676D2611FAF600A37D88 /* README.md */; };
+		7D0267732611FCBF00A37D88 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7D0267722611FCBF00A37D88 /* README.md */; };
 		7D520B572610A757008524F2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D520B562610A757008524F2 /* AppDelegate.swift */; };
 		7D520B592610A757008524F2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D520B582610A757008524F2 /* SceneDelegate.swift */; };
 		7D520B5B2610A757008524F2 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D520B5A2610A757008524F2 /* MainViewController.swift */; };
@@ -41,7 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7D02676D2611FAF600A37D88 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		7D0267722611FCBF00A37D88 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7D520B532610A757008524F2 /* InterviewStarterKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InterviewStarterKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D520B562610A757008524F2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7D520B582610A757008524F2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -91,7 +91,7 @@
 		7D520B4A2610A757008524F2 = {
 			isa = PBXGroup;
 			children = (
-				7D02676D2611FAF600A37D88 /* README.md */,
+				7D0267722611FCBF00A37D88 /* README.md */,
 				7D520B552610A757008524F2 /* InterviewStarterKit */,
 				7D520B6F2610A75A008524F2 /* InterviewStarterKitTests */,
 				7D520B7A2610A75A008524F2 /* InterviewStarterKitUITests */,
@@ -283,7 +283,7 @@
 			files = (
 				7D520B662610A759008524F2 /* LaunchScreen.storyboard in Resources */,
 				7D520B632610A759008524F2 /* Assets.xcassets in Resources */,
-				7D02676E2611FAF600A37D88 /* README.md in Resources */,
+				7D0267732611FCBF00A37D88 /* README.md in Resources */,
 				7D520B5E2610A757008524F2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
